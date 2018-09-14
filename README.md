@@ -46,7 +46,7 @@ Enjoy it!
 ```
 ###卸载方法：
 <br>
-使用 root 用户登录，运行以下命令(谷歌云使用  sudo -i  )：
+使用 root 用户登录，运行以下命令(谷歌云使用 ` sudo -i ` )：
 
 ```
 ./shadowsocksR.sh uninstall
